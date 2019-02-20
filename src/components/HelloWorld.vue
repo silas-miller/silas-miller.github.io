@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       This is simply a test placeholder page while I work on getting everything setup with vue and github.<br/>
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="/home.html" target="_blank" rel="noopener">home</a>.
       <br/>Silas Miller
     </p>
   </div>
